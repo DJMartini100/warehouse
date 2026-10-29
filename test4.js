@@ -15,7 +15,7 @@
 ]
 }
 ]
-s
+s2
 */
 async function processObject(id){
     console.log(id)
